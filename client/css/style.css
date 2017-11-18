@@ -1514,7 +1514,7 @@ ul.check-list li:before {
 .single-client {
     float: left;
     border: 1px solid #ddd;
-    width: calc(33.33% - 5px);
+    width: calc(50% - 5px);
     margin-bottom: 5px;
     margin-right: 5px;
 }
